@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+.main{
+    display: flex;
+    gap: 2%;
+    width: 95%;
+    margin-left: 2.5%;
+}
+.box1{
+    width: 32%;
+}
+.box1 img{
+    width: 100%;
+    height: 80%;
+}
+.box1 p{
+    font-size: 25px;
+    padding: 10px;
+}
